@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">RecyclerViewLoadMoreExample</string>
+
+    <!-- AppRecyclerView -->
+    <string name="app_recyclerview_pull_to_refresh">下拉更新</string>
+    <string name="app_recyclerview_loading">載入中</string>
+    <string name="app_recyclerview_prepare_to_refresh">放開載入更新</string>
+    <string name="app_recyclerview_refreshing">正在更新</string>
+    <string name="app_recyclerview_refresh_finish">更新完成</string>
+</resources>
